@@ -8,7 +8,7 @@
 sudo apt-get update
 sudo apt-get -y upgrade
 
-#Download Etc.
+# Install Etc.
 sudo apt-get -y install curl wget axel unzip
 
 # Apache2 + MySQL + PHP5.6
